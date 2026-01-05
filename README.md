@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Ayoub
 
-<!--
-**pskshksh/pskshksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer who loves building APIs in **Golang** and digging into blockchain with **Rust**.
 
-Here are some ideas to get you started:
+Problem solver by **day**, problem solver by **night**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+
+**[pskshksh.github.io](https://pskshksh.github.io)**
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/ayoubidel/) · [Medium](https://medium.com/@0xgotznit) · [Email](mailto:ayoubidel64@gmail.com)
