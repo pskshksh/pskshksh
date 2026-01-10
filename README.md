@@ -1,8 +1,6 @@
 # Hey, I'm Ayoub
 
-Software engineer who loves building APIs in **Golang** and digging into blockchain with **Rust**.
-
-Problem solver by **day**, problem solver by **night**.
+I love coding.
 
 ## Portfolio
 
